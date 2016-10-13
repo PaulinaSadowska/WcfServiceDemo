@@ -1,0 +1,6 @@
+C:\Users\arasz\Desktop\WCFTutorial\WcfServiceEmptyDemo\WcfServiceEmptyDemo\bin\WcfServiceEmptyDemo.dll.config
+C:\Users\arasz\Desktop\WCFTutorial\WcfServiceEmptyDemo\WcfServiceEmptyDemo\bin\WcfServiceEmptyDemo.dll
+C:\Users\arasz\Desktop\WCFTutorial\WcfServiceEmptyDemo\WcfServiceEmptyDemo\bin\WcfServiceEmptyDemo.pdb
+C:\Users\arasz\Desktop\WCFTutorial\WcfServiceEmptyDemo\WcfServiceEmptyDemo\obj\Debug\WcfServiceEmptyDemo.csprojResolveAssemblyReference.cache
+C:\Users\arasz\Desktop\WCFTutorial\WcfServiceEmptyDemo\WcfServiceEmptyDemo\obj\Debug\WcfServiceEmptyDemo.dll
+C:\Users\arasz\Desktop\WCFTutorial\WcfServiceEmptyDemo\WcfServiceEmptyDemo\obj\Debug\WcfServiceEmptyDemo.pdb
